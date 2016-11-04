@@ -1,0 +1,130 @@
+body {
+  background: #111;
+}
+
+.project-name{
+  background: url("http://i.imgur.com/3W7yR.jpg");
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0.25);
+  font-family: 'Lobster', cursive;
+  font-size: 60px;
+  letter-spacing: -2px;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  margin-top: 3em;
+
+}
+
+.project-name:hover {
+  background: url("http://i.imgur.com/3W7yR.jpg");
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0.75);
+  font-family: 'Lobster', cursive;
+  font-size: 60px;
+  letter-spacing: -2px;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  margin-top: 3em;
+
+}
+
+.openmodale {
+  background: url("http://i.imgur.com/3W7yR.jpg");
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0.25);
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+  letter-spacing: -2px;
+  margin: 0 auto;
+  display: display;
+  text-align: center;
+  margin-top: 0.8em;
+  border-style: solid;
+  border-radius: 25px;
+  border-color: #a5ffd2;
+  padding: 20px;
+  width: 220px;
+  transition-duration: 1s;
+
+}
+
+.openmodale:hover {
+  background: url("http://i.imgur.com/3W7yR.jpg");
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0.75);
+  font-family: 'Lobster', cursive;
+  font-size: 45px;
+  letter-spacing: -2px;
+  margin: 0 auto;
+  display: display;
+  text-align: center;
+  margin-top: 0.8em;
+  border-style: dotted;
+  border-radius: 25px;
+  border-color: #a5ffd2;
+  padding: 20px;
+  width: 280px;
+
+}
+
+
+
+.modal-body{
+  background: url("http://i.imgur.com/3W7yR.jpg");
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0.25);
+  font-family: 'Lobster', cursive;
+  font-size: 60px;
+  letter-spacing: -2px;
+  margin: 0 auto;
+  display: none;
+  text-align: center;
+  margin-top: 3em;
+}
+
+
+
+.modal-footer{
+  background: url("http://i.imgur.com/3W7yR.jpg");
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0.25);
+  font-family: 'Lobster', cursive;
+  font-size: 20px;
+  letter-spacing: -2px;
+  margin: 0 auto;
+  display: none;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 25px;
+  padding: 1rem;
+  color: #efefef;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  background-color: #111;
+}
+
+.twitter-logo{
+  margin-right: 0.3em;
+}
+
+.modal-footer:hover{
+  background: url("http://i.imgur.com/3W7yR.jpg");
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0.25);
+  font-family: 'Lobster', cursive;
+  font-size: 25px;
+  letter-spacing: -2px;
+  margin: 0 auto;
+  display: none;
+  text-align: center;
+  margin-top: 10px;
+}
