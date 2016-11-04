@@ -3,7 +3,7 @@ body {
 }
 
 .project-name{
-  background: url("http://i.imgur.com/3W7yR.jpg");
+  background: url("https://i.imgur.com/3W7yR.jpg");
   -webkit-background-clip: text;
   -webkit-text-fill-color: rgba(255, 255, 255, 0.25);
   font-family: 'Lobster', cursive;
@@ -17,7 +17,7 @@ body {
 }
 
 .project-name:hover {
-  background: url("http://i.imgur.com/3W7yR.jpg");
+  background: url("https://i.imgur.com/3W7yR.jpg");
   -webkit-background-clip: text;
   -webkit-text-fill-color: rgba(255, 255, 255, 0.75);
   font-family: 'Lobster', cursive;
@@ -31,7 +31,7 @@ body {
 }
 
 .openmodale {
-  background: url("http://i.imgur.com/3W7yR.jpg");
+  background: url("https://i.imgur.com/3W7yR.jpg");
   -webkit-background-clip: text;
   -webkit-text-fill-color: rgba(255, 255, 255, 0.25);
   font-family: 'Lobster', cursive;
@@ -51,7 +51,7 @@ body {
 }
 
 .openmodale:hover {
-  background: url("http://i.imgur.com/3W7yR.jpg");
+  background: url("https://i.imgur.com/3W7yR.jpg");
   -webkit-background-clip: text;
   -webkit-text-fill-color: rgba(255, 255, 255, 0.75);
   font-family: 'Lobster', cursive;
@@ -72,7 +72,7 @@ body {
 
 
 .modal-body{
-  background: url("http://i.imgur.com/3W7yR.jpg");
+  background: url("https://i.imgur.com/3W7yR.jpg");
   -webkit-background-clip: text;
   -webkit-text-fill-color: rgba(255, 255, 255, 0.25);
   font-family: 'Lobster', cursive;
@@ -87,7 +87,7 @@ body {
 
 
 .modal-footer{
-  background: url("http://i.imgur.com/3W7yR.jpg");
+  background: url("https://i.imgur.com/3W7yR.jpg");
   -webkit-background-clip: text;
   -webkit-text-fill-color: rgba(255, 255, 255, 0.25);
   font-family: 'Lobster', cursive;
@@ -117,7 +117,7 @@ body {
 }
 
 .modal-footer:hover{
-  background: url("http://i.imgur.com/3W7yR.jpg");
+  background: url("https://i.imgur.com/3W7yR.jpg");
   -webkit-background-clip: text;
   -webkit-text-fill-color: rgba(255, 255, 255, 0.25);
   font-family: 'Lobster', cursive;
